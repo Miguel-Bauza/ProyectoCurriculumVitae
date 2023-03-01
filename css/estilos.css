@@ -1,0 +1,16 @@
+.titPri{
+  font-size:1.5em;
+}
+
+.titSec{
+  font-size:1em ;
+}
+
+.titNav{
+  font-size: 2em;
+  justify-content: center;
+  text-align: center;
+}
+.dxd{
+max-height: 150px;
+}
